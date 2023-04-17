@@ -7,4 +7,4 @@ Testing Facebook's Detectron library that provides state-of-the-art detection an
 
 ## Result:
 <!-- ![stack Overflow](http://lmsotfy.com/so.png) -->
-![output image](https://github.com/BZWayne/detectron2/output_image.png)
+![output image](https://github.com/BZWayne/detectron2/blob/main/output_image.png)
