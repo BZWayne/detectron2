@@ -7,4 +7,4 @@ Testing Facebook's Detectron library that provides state-of-the-art detection an
 
 ## Result:
 
-![text]([http://url/to/img.png](https://github.com/BZWayne/detectron2/blob/main/output_image.png))
+![text]([http://url/to/img.png](https://github.com/BZWayne/detectron2/output_image.png))
