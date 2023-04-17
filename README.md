@@ -6,5 +6,5 @@ Testing Facebook's Detectron library that provides state-of-the-art detection an
 </div>
 
 ## Result:
-
-![text]([http://url/to/img.png](https://github.com/BZWayne/detectron2/output_image.png))
+<!-- ![stack Overflow](http://lmsotfy.com/so.png) -->
+![output image](https://github.com/BZWayne/detectron2/output_image.png)
